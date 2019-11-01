@@ -1,123 +1,121 @@
 {
     "questions": {
-        "question1": {
-            "options": {
-                "answer1": {
-                    "question": "Cannot sign-in to my Ingress Account",
-                    "answer": "Please select the appropriate category based on the issue you're facing.",
-                    "sub-option": {
-                        "answer1": {
-                            "Q": "Forgot my Codename / Email Address",
-                            "A": "Please provide us with your Agent Codename for the account you're trying to access."
-                        },
-                        "answer2": {
-                            "Q": "Account was reset to L1",
-                            "A": "Not to worry, Agent! Your account is secure and it's possible that you've logged in using a different email address.<br><br>Please provide us with your Agent Codename for the account you're trying to access."
-                        },
-                        "answer3": {
-                            "Q": "Unable to log into my account",
-                            "A": "We apologise for the inconvenience, Agent! Please provide us with your Agent Codename for the account you're trying to access."
-                        },
-                        "answer4": {
-                            "Q": "My Account was terminated",
-                            "A": "Please note that any violations of the Ingress Terms of Service or the Community Guidelines, may result in the termination of your account.<br><br>If you believe your account was incorrectly terminated, please enter the Agent Codename for the account you're trying to access."
-                        }
+        "options": {
+            "answer1": {
+                "question": "Cannot sign-in to my Ingress Account",
+                "answer": "Please select the appropriate category based on the issue you're facing.",
+                "sub-option": {
+                    "answer1": {
+                        "Q": "Forgot my Codename / Email Address",
+                        "A": "Please provide us with your Agent Codename for the account you're trying to access."
+                    },
+                    "answer2": {
+                        "Q": "Account was reset to L1",
+                        "A": "Not to worry, Agent! Your account is secure and it's possible that you've logged in using a different email address.<br><br>Please provide us with your Agent Codename for the account you're trying to access."
+                    },
+                    "answer3": {
+                        "Q": "Unable to log into my account",
+                        "A": "We apologise for the inconvenience, Agent! Please provide us with your Agent Codename for the account you're trying to access."
+                    },
+                    "answer4": {
+                        "Q": "My Account was terminated",
+                        "A": "Please note that any violations of the Ingress Terms of Service or the Community Guidelines, may result in the termination of your account.<br><br>If you believe your account was incorrectly terminated, please enter the Agent Codename for the account you're trying to access."
                     }
-                },
-                "answer2": {
-                    "question": "Help with Premium Items",
-                    "answer": "What issue are your facing with CMU or Premium Items?",
-                    "sub-option": {
-                        "answer1": {
-                            "Q": "I don't see the Premium Items / CMU that I purchased",
-                            "A": "Please provide us with your Agent Codename for the Ingress account that you need help with."
-                        },
-                        "answer2": {
-                            "Q": "Unable to purchase CMU",
-                            "A": "Please submit your Agent Codename for the Ingress account that is facing this issue."
-                        },
-                        "answer3": {
-                            "Q": "Premium Item doesn't work as intended",
-                            "A": "Please provide us with your Agent Codename for the Ingress account that you need help with."
-                        },
-                        "answer4": {
-                            "Q": "I want a refund",
-                            "A": "NOTE: At this time, Apple handles all refunds for apps and in-app purchases, so if you'd like to get a refund, please reach out to them via this link: http://www.apple.com/shop/help/returns_refund.<br><br>If you're an Android User, please provide us with your Agent Codename for the Ingress account that you need help with."
-                        }
+                }
+            },
+            "answer2": {
+                "question": "Help with Premium Items",
+                "answer": "What issue are your facing with CMU or Premium Items?",
+                "sub-option": {
+                    "answer1": {
+                        "Q": "I don't see the Premium Items / CMU that I purchased",
+                        "A": "Please provide us with your Agent Codename for the Ingress account that you need help with."
+                    },
+                    "answer2": {
+                        "Q": "Unable to purchase CMU",
+                        "A": "Please submit your Agent Codename for the Ingress account that is facing this issue."
+                    },
+                    "answer3": {
+                        "Q": "Premium Item doesn't work as intended",
+                        "A": "Please provide us with your Agent Codename for the Ingress account that you need help with."
+                    },
+                    "answer4": {
+                        "Q": "I want a refund",
+                        "A": "NOTE: At this time, Apple handles all refunds for apps and in-app purchases, so if you'd like to get a refund, please reach out to them via this link: http://www.apple.com/shop/help/returns_refund.<br><br>If you're an Android User, please provide us with your Agent Codename for the Ingress account that you need help with."
                     }
-                },
-                "answer3": {
-                    "question": "Questions about Scanner/ Intel Map / OPR",
-                    "answer": "Before submitting a ticket, please visit our Known Issues page to find some of the frequently reported issues by your fellow Agents: <a href=\"http://arkonx.com/\" target=\"_blank\">http://arkonx.com/</a><br><br>If your issue is not mentioned in the Known Issues page or if you need additional support, please submit a report by selecting the appropriate category.",
-                    "sub-option": {
-                        "answer1": {
-                            "Q": "My Agent Stats are Incorrect",
-                            "A": "Please provide your Agent Codename associated with your Ingress account."
-                        },
-                        "answer2": {
-                            "Q": "Report a Bug with the Scanner or Intel Map",
-                            "A": "To troubleshoot your issue further, please provide your Agent Codename."
-                        },
-                        "answer3": {
-                            "Q": "OPR Issues",
-                            "A": "Please provide your Agent Codename associated with your Ingress account."
-                        },
-                        "answer4": {
-                            "Q": "Gameplay Questions",
-                            "A": "Please provide a brief description of the issue you're reporting."
-                        }
+                }
+            },
+            "answer3": {
+                "question": "Questions about Scanner/ Intel Map / OPR",
+                "answer": "Before submitting a ticket, please visit our Known Issues page to find some of the frequently reported issues by your fellow Agents: <a href=\"http://arkonx.com/\" target=\"_blank\">http://arkonx.com/</a><br><br>If your issue is not mentioned in the Known Issues page or if you need additional support, please submit a report by selecting the appropriate category.",
+                "sub-option": {
+                    "answer1": {
+                        "Q": "My Agent Stats are Incorrect",
+                        "A": "Please provide your Agent Codename associated with your Ingress account."
+                    },
+                    "answer2": {
+                        "Q": "Report a Bug with the Scanner or Intel Map",
+                        "A": "To troubleshoot your issue further, please provide your Agent Codename."
+                    },
+                    "answer3": {
+                        "Q": "OPR Issues",
+                        "A": "Please provide your Agent Codename associated with your Ingress account."
+                    },
+                    "answer4": {
+                        "Q": "Gameplay Questions",
+                        "A": "Please provide a brief description of the issue you're reporting."
                     }
-                },
-                "answer4": {
-                    "question": "Report Inappropriate Behaviour or Cheating",
-                    "answer": "What type of issue are you reporting?",
-                    "sub-option": {
-                        "answer1": {
-                            "Q": "Inappropriate Behaviour",
-                            "A": "If you suspect another player is not playing in accordance with the Ingress Terms of Service or the Community Guidelines, please report them by selecting the appropriate category",
-                            "sub-option": {
-                                "answer1": {
-                                    "Q": "Inappropriate Codename",
-                                    "A": "Please provide the Agent Codename that is in violation of the Community Guidelines"
-                                },
-                                "answer2": {
-                                    "Q": "Harassment in COMM",
-                                    "A": "Please provide the Codename of the Agent you wish to report."
-                                },
-                                "answer3": {
-                                    "Q": "Harassment using Missions",
-                                    "A": "Please provide the Codename of the Agent you wish to report."
-                                },
-                                "answer4": {
-                                    "Q": "Other ",
-                                    "A": "Please provide the Codename of the Agent you wish to report."
-                                }
+                }
+            },
+            "answer4": {
+                "question": "Report Inappropriate Behaviour or Cheating",
+                "answer": "What type of issue are you reporting?",
+                "sub-option": {
+                    "answer1": {
+                        "Q": "Inappropriate Behaviour",
+                        "A": "If you suspect another player is not playing in accordance with the Ingress Terms of Service or the Community Guidelines, please report them by selecting the appropriate category",
+                        "sub-option": {
+                            "answer1": {
+                                "Q": "Inappropriate Codename",
+                                "A": "Please provide the Agent Codename that is in violation of the Community Guidelines"
+                            },
+                            "answer2": {
+                                "Q": "Harassment in COMM",
+                                "A": "Please provide the Codename of the Agent you wish to report."
+                            },
+                            "answer3": {
+                                "Q": "Harassment using Missions",
+                                "A": "Please provide the Codename of the Agent you wish to report."
+                            },
+                            "answer4": {
+                                "Q": "Other ",
+                                "A": "Please provide the Codename of the Agent you wish to report."
                             }
-                        },
-                        "answer2": {
-                            "Q": "Suspected Cheating",
-                            "A": "If you suspect an Agent is violating Ingress Terms of Service and the Community Guidelines, by using unofficial third-party services to access and affect Ingress gameplay, please select the appropriate category to report them.",
-                            "sub-option": {
-                                "answer1": {
-                                    "Q": "Falsifying their GPS Location",
-                                    "A": "Please provide the Codename of the Agent you wish to report."
-                                },
-                                "answer2": {
-                                    "Q": "Using Multiple Accounts",
-                                    "A": "Please provide the Codename of the Agent you wish to report."
-                                },
-                                "answer3": {
-                                    "Q": "Scraping User Data",
-                                    "A": "Please provide the Codename of the Agent you wish to report."
-                                },
-                                "answer4": {
-                                    "Q": "Selling or Sharing their Account",
-                                    "A": "Please provide the Codename of the Agent you wish to report."
-                                },
-                                "answer5": {
-                                    "Q": "Trespassing",
-                                    "A": "Please provide the Codename of the Agent you wish to report."
-                                }
+                        }
+                    },
+                    "answer2": {
+                        "Q": "Suspected Cheating",
+                        "A": "If you suspect an Agent is violating Ingress Terms of Service and the Community Guidelines, by using unofficial third-party services to access and affect Ingress gameplay, please select the appropriate category to report them.",
+                        "sub-option": {
+                            "answer1": {
+                                "Q": "Falsifying their GPS Location",
+                                "A": "Please provide the Codename of the Agent you wish to report."
+                            },
+                            "answer2": {
+                                "Q": "Using Multiple Accounts",
+                                "A": "Please provide the Codename of the Agent you wish to report."
+                            },
+                            "answer3": {
+                                "Q": "Scraping User Data",
+                                "A": "Please provide the Codename of the Agent you wish to report."
+                            },
+                            "answer4": {
+                                "Q": "Selling or Sharing their Account",
+                                "A": "Please provide the Codename of the Agent you wish to report."
+                            },
+                            "answer5": {
+                                "Q": "Trespassing",
+                                "A": "Please provide the Codename of the Agent you wish to report."
                             }
                         }
                     }
