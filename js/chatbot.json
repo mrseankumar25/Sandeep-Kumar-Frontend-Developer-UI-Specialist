@@ -48,7 +48,7 @@
                 },
                 "answer3": {
                     "question": "Questions about Scanner/ Intel Map / OPR",
-                    "answer": "Before submitting a ticket, please visit our Known Issues page to find some of the frequently reported issues by your fellow Agents: <a href=\"https://niantic.helpshift.com/a/ingress/?p=web&amp;s=troubleshooting&amp;f=ingress-prime-known-issues\" target=\"_blank\">https://niantic.helpshift.com/a/ingress/?p=web&amp;s=troubleshooting&amp;f=ingress-prime-known-issues</a><br><br>If your issue is not mentioned in the Known Issues page or if you need additional support, please submit a report by selecting the appropriate category.",
+                    "answer": "Before submitting a ticket, please visit our Known Issues page to find some of the frequently reported issues by your fellow Agents: <a href=\"http://arkonx.com/\" target=\"_blank\">http://arkonx.com/</a><br><br>If your issue is not mentioned in the Known Issues page or if you need additional support, please submit a report by selecting the appropriate category.",
                     "sub-option": {
                         "answer1": {
                             "Q": "My Agent Stats are Incorrect",
@@ -135,7 +135,7 @@
                 "What's your email?"
             ],
             "suggested": [
-                "Hey! I’m Remy, the Niantic Support bot. I'm going to ask you a few questions so I can help direct you to the right place. Which of these categories most accurately describes your question?"
+                "Hey! I’m Remy, the Arkonx Wallet & Exchange Support bot. I'm going to ask you a few questions so I can help direct you to the right place. Which of these categories most accurately describes your question?"
             ]
         }
     }
