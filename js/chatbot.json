@@ -12,7 +12,7 @@
                         },
                         "answer2": {
                             "Q": "Account was reset to L1",
-                            "A": "Not to worry, Agent! Your account is secure and it's possible that you've logged in using a different email address.<br>Please provide us with your Agent Codename for the account you're trying to access."
+                            "A": "Not to worry, Agent! Your account is secure and it's possible that you've logged in using a different email address.<br><br>Please provide us with your Agent Codename for the account you're trying to access."
                         },
                         "answer3": {
                             "Q": "Unable to log into my account",
@@ -96,7 +96,7 @@
     "answers": {
         "reply": {
             "greetings": [
-                "Greetings, Agent! Welcome to Arkonx Wallet & Exchange Support. <br>Please describe your issue to view suggested articles and FAQs from our help center or type “Skip” to activate Remy, our Arkonx Wallet & Exchange support bot, who will help you submit a ticket to our (human) team. Note that it can take a few hours to receive a response from them."
+                "Greetings, Agent! Welcome to Arkonx Wallet & Exchange Support. <br><br>Please describe your issue to view suggested articles and FAQs from our help center or type “Skip” to activate Remy, our Arkonx Wallet & Exchange support bot, who will help you submit a ticket to our (human) team. Note that it can take a few hours to receive a response from them."
             ],
             "start": [
                 "Before we begin, we need some more information.",
