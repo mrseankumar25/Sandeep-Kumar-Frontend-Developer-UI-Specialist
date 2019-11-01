@@ -96,7 +96,7 @@
     "answers": {
         "reply": {
             "greetings": [
-                "Greetings, Agent! Welcome to Arkonx Wallet & Exchange Support. Please describe your issue to view suggested articles and FAQs from our help center or type “Skip” to activate Remy, our Arkonx Wallet & Exchange support bot, who will help you submit a ticket to our (human) team. Note that it can take a few hours to receive a response from them."
+                "Greetings, Agent! Welcome to Arkonx Wallet & Exchange Support. <br>Please describe your issue to view suggested articles and FAQs from our help center or type “Skip” to activate Remy, our Arkonx Wallet & Exchange support bot, who will help you submit a ticket to our (human) team. Note that it can take a few hours to receive a response from them."
             ],
             "start": [
                 "Before we begin, we need some more information.",
@@ -104,9 +104,7 @@
             ],
             "suggested": [
                 "Hey! I’m Remy, the Niantic Support bot. I'm going to ask you a few questions so I can help direct you to the right place. Which of these categories most accurately describes your question?"
-            ],
-            "question1": [],
-            "question2": []
+            ]
         }
     }
 }
