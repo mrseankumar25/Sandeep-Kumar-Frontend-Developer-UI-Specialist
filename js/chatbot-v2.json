@@ -81,8 +81,11 @@
             "suggested": [
                 "Hey! I’m Remy, the Arkonx Wallet & Exchange Support bot. I'm going to ask you a few questions so I can help direct you to the right place. Which of these categories most accurately describes your question?"
             ],
+            "details": [
+                "If you have any additional details, please share it with us. This might help us in resolving your issue promptly."
+            ],
             "common": [
-                "Thanks you for sharing the issue, We'll back to you soon."
+                "Thank you! I’ve shared all the information with my (human) team, and you will receive an update in a few hours. Meanwhile, if you would like to send any additional information, like screenshots, you can do so by clicking the paper-clip icon at the bottom right corner of this chat window."
             ]
         }
     }
