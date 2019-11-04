@@ -1,0 +1,86 @@
+{
+    "options": {
+        "send": {
+            "question": "Send Crypto",
+            "answer1": "Please select a coin with your facing an issue to send.",
+            "answer2": "Please enter the address of coin.",
+            "sub-options": {
+                "coin": {
+                    "BTC": "https://arkonx.com/site_assets/images/Bitcoin.png",
+                    "ETH": "https://arkonx.com/site_assets/images/ether.png",
+                    "ETC": "https://arkonx.com/site_assets/images/etcr.png",
+                    "BCH": "https://arkonx.com/site_assets/images/Bitcoin.png",
+                    "LTC": "https://arkonx.com/site_assets/images/litecoin.png",
+                    "DASH": "https://arkonx.com/site_assets/images/dash.png",
+                    "DOGE": "https://arkonx.com/site_assets/images/doge.png",
+                    "DAI": "https://arkonx.com/site_assets/images/dai.png"
+                }
+            }
+        },
+        "receive": {
+            "question": "Receive Crypto",
+            "answer1": "Please select a coin with your facing an issue receive.",
+            "answer2": "Please enter the address of coin.",
+            "sub-options": {
+                "coin": {
+                    "BTC": "https://arkonx.com/site_assets/images/Bitcoin.png",
+                    "ETH": "https://arkonx.com/site_assets/images/ether.png",
+                    "ETC": "https://arkonx.com/site_assets/images/etcr.png",
+                    "BCH": "https://arkonx.com/site_assets/images/Bitcoin.png",
+                    "LTC": "https://arkonx.com/site_assets/images/litecoin.png",
+                    "DASH": "https://arkonx.com/site_assets/images/dash.png",
+                    "DOGE": "https://arkonx.com/site_assets/images/doge.png",
+                    "DAI": "https://arkonx.com/site_assets/images/dai.png"
+                }
+            }
+        },
+        "buy": {
+            "question": "Buy Crypto",
+            "answer1": "Please select a coin with your facing an issue to buy.",
+            "answer2": "Please enter the address of coin.",
+            "sub-options": {
+                "coin": {
+                    "BTC": "https://arkonx.com/site_assets/images/Bitcoin.png",
+                    "ETH": "https://arkonx.com/site_assets/images/ether.png",
+                    "ETC": "https://arkonx.com/site_assets/images/etcr.png",
+                    "BCH": "https://arkonx.com/site_assets/images/Bitcoin.png",
+                    "LTC": "https://arkonx.com/site_assets/images/litecoin.png",
+                    "DASH": "https://arkonx.com/site_assets/images/dash.png",
+                    "DOGE": "https://arkonx.com/site_assets/images/doge.png",
+                    "DAI": "https://arkonx.com/site_assets/images/dai.png"
+                }
+            }
+        },
+        "exchange": {
+            "question": "Instant Exchange",
+            "answer1": "Please select a coin you want to exchange.",
+            "answer2": "Please select a coin you want to exchange with.",
+            "sub-options": {
+                "coin": {
+                    "BTC": "https://arkonx.com/site_assets/images/Bitcoin.png",
+                    "ETH": "https://arkonx.com/site_assets/images/ether.png",
+                    "ETC": "https://arkonx.com/site_assets/images/etcr.png",
+                    "BCH": "https://arkonx.com/site_assets/images/Bitcoin.png",
+                    "LTC": "https://arkonx.com/site_assets/images/litecoin.png",
+                    "DASH": "https://arkonx.com/site_assets/images/dash.png",
+                    "DOGE": "https://arkonx.com/site_assets/images/doge.png",
+                    "DAI": "https://arkonx.com/site_assets/images/dai.png"
+                }
+            }
+        },
+        "other": {
+            "question": "Instant Exchange",
+            "answer1": "We apologise for the inconvenience, please submit your issue so that our Agent can help you out."
+        }
+    },
+    "answers": {
+        "reply": {
+            "greetings": [
+                "Greetings, Agent! Welcome to Arkonx Wallet & Exchange Support. <br><br>Please describe your issue to view suggested articles and FAQs from our help center or type “Skip” to activate Remy, our Arkonx Wallet & Exchange support bot, who will help you submit a ticket to our (human) team. Note that it can take a few hours to receive a response from them."
+            ],
+            "suggested": [
+                "Hey! I’m Remy, the Arkonx Wallet & Exchange Support bot. I'm going to ask you a few questions so I can help direct you to the right place. Which of these categories most accurately describes your question?"
+            ]
+        }
+    }
+}
