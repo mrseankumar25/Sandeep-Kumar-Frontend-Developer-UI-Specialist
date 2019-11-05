@@ -83,7 +83,7 @@
             ],
             "suggested": [
                 "Hey! I’m Remy, the Arkonx Wallet & Exchange Support bot. I'm going to ask you a few questions so I can help direct you to the right place. Which of these categories most accurately describes your question?",
-                "Before we begin, we need some more information."
+                "Please select the appropriate category based on the issue you're facing."
             ],
             "details": [
                 "If you have any additional details, please share it with us. This might help us in resolving your issue promptly."
