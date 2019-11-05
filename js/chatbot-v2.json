@@ -2,8 +2,8 @@
     "options": {
         "send": {
             "question": "Send Crypto",
-            "answer1": "Please select a coin with your facing an issue to send.",
-            "answer2": "Please enter the address of coin.",
+            "answer1": ["Please select a coin with your facing an issue to send."],
+            "answer2": ["Please enter the address of coin."],
             "sub-options": {
                 "coin": {
                     "BTC": "https://arkonx.com/site_assets/images/Bitcoin.png",
@@ -19,8 +19,8 @@
         },
         "receive": {
             "question": "Receive Crypto",
-            "answer1": "Please select a coin with your facing an issue receive.",
-            "answer2": "Please enter the address of coin.",
+            "answer1": ["Please select a coin with your facing an issue receive."],
+            "answer2": ["Please enter the address of coin."],
             "sub-options": {
                 "coin": {
                     "BTC": "https://arkonx.com/site_assets/images/Bitcoin.png",
@@ -36,8 +36,8 @@
         },
         "buy": {
             "question": "Buy Crypto",
-            "answer1": "Please select a coin with your facing an issue to buy.",
-            "answer2": "Please enter the address of coin.",
+            "answer1": ["Please select a coin with your facing an issue to buy."],
+            "answer2": ["Please enter the address of coin."],
             "sub-options": {
                 "coin": {
                     "BTC": "https://arkonx.com/site_assets/images/Bitcoin.png",
@@ -53,8 +53,8 @@
         },
         "exchange": {
             "question": "Instant Exchange",
-            "answer1": "Please select a coin you want to exchange.",
-            "answer2": "Please select a coin you want to exchange with.",
+            "answer1": ["Please select a coin you want to exchange."],
+            "answer2": ["Please select a coin you want to exchange with."],
             "sub-options": {
                 "coin": {
                     "BTC": "https://arkonx.com/site_assets/images/Bitcoin.png",
@@ -70,7 +70,10 @@
         },
         "other": {
             "question": "other",
-            "answer1": "We apologise for the inconvenience, please submit your issue so that our Agent can help you out."
+            "answer1": [
+                "We apologise for the inconvenience, please submit your issue so that our Agent can help you out.",
+                "If you have any additional details, please share it with us. This might help us in resolving your issue promptly."
+            ]
         }
     },
     "answers": {
